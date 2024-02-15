@@ -1,6 +1,4 @@
-Escribo esta linea de nuevo
+Escribo otro linea
 Escribo otro lineaEscribo otro lineaEscribo otro linea
 
-
-
-Esto lo escribo ahora.... 
+nueva prueba
